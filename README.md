@@ -4,4 +4,4 @@
 
 *cc! and c! couriberg shipper.*
 
-<video https://github.com/user-attachments/assets/04405e17-00ef-497b-832a-6815a1556761/>
+[<video src= https://www.youtube.com/watch?v=-kf2IEWn_7A />](https://www.youtube.com/watch?v=-kf2IEWn_7A)
