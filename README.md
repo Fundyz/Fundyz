@@ -4,4 +4,4 @@
 
 *cc! and c! couriberg shipper.*
 
-<video src="[path/to/video.mp4](https://www.youtube.com/watch?v=a7gZg6WKJh8&t=161s)" width="320" height="240" controls></video>
+<video src="couriway and feinberg moments - mcsr brainrot (1080p, h264, youtube).mp4" width="320" height="240" controls></video>
