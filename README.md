@@ -4,4 +4,4 @@
 
 *cc! and c! couriberg shipper.*
 
-<iframe width="300" height="250" src="https://www.youtube.com/embed/video-id](https://www.youtube.com/watch?v=a7gZg6WKJh8&t=161s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="[path/to/video.mp4](https://www.youtube.com/watch?v=a7gZg6WKJh8&t=161s)" width="320" height="240" controls></video>
